@@ -111,11 +111,9 @@ This Java program simulates a simple ATM (Automated Teller Machine) system where
 4. Follow on-screen instructions for further actions.
 5. The program continues running until the user selects exit.
 
-## Improvements
-- Implement a user-friendly GUI.
-- Store user data persistently using a database.
-- Enhance security by hashing the PIN.
-- Allow multiple users with different PINs and balances.
+## Output
+
+![javaatm](https://github.com/user-attachments/assets/ac02958e-173a-4ec3-b51c-7de7488a02f2)
 
 This project demonstrates basic Java concepts like class methods, conditional statements, loops, and user input handling. It's a great starting point for learning about banking applications in Java!
 
